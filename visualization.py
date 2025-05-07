@@ -614,7 +614,7 @@ def render_signal_controls(intersection_id, signal_state, controller):
     
     # Emergency button
     st.write("Emergency Controls:")
-    if st.button("🚨 Trigger Emergency Vehicle", type="danger"):
+    if st.button("🚨 Trigger Emergency Vehicle", type="primary"):
         # This is a demo feature - in a real system it would be triggered by actual detection
         st.session_state.simulator.emergency_vehicles[f"ev_trigger_{intersection_id}"] = {
             'id': f"ev_trigger_{intersection_id}",
