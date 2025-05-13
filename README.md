@@ -97,11 +97,11 @@ The system evaluates performance using several key metrics:
 - API for third-party integration
 
 ## Project Context
-This project was developed as a prototype for a Bachelor of Science in Information Technology degree project at Karatina University. It serves as a proof-of-concept for intelligent traffic management systems that could help reduce congestion and improve traffic flow in urban areas.
+This project was developed as a prototype for a Bachelor of Science in Computer Science degree project at Karatina University. It serves as a proof-of-concept for intelligent traffic management systems that could help reduce congestion and improve traffic flow in urban areas.
 
 ## License
 This project is available for educational and research purposes.
 
 ---
 
-*Developed by [Geoffrey Nthuli]*
+*Developed by [Lameck Irungu](https://github.com/lameckirungu)*
